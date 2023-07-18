@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=api_restaurant_group_5
+POSTGRES_USER=gWoHomiCsbXfxWBcfANSlkiGcspHjWQN
+POSTGRES_PASSWORD=dQvbMpee5eYVNqYGrZEykTEGjTExRBrr00Bs8bWVwJhZpv8eQQUULan5owF5YoL2
